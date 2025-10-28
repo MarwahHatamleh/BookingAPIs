@@ -31,3 +31,5 @@ import redis in file that you want to use it and set and get data within it
 "you can use docker ps to get your redis info (port  , name , localhost)"
 
 
+
+API Design : https://1drv.ms/x/c/79f76ce63334d821/EVEpwaTIEwRGgBQRBlynUGkBm0zeBGxzJfhKb0RVWK_arw?e=MsfizM
