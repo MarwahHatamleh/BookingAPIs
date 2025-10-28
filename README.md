@@ -12,8 +12,7 @@ It includes basic APIs for handling users, booking , getting a data based on a g
 - install image redis Docker Hub
 - run command in Docker CLI 'docker run --name myredis -p 6379:6379 redis'
  >> Redis will start locally on port 6379
-- run ping
-# should reply: PONG -> you’re connected
+- run ping => should reply: PONG -> you’re connected
 -  create file lib/redis.ts
 
 import Redis from "ioredis";
